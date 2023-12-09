@@ -92,7 +92,7 @@ body{
     background-color: var(--highlight);
     border-radius: 5px;
     text-align: center;
-    margin: 0 2rem;
+    margin: 0 1rem;
     padding: 0.5rem 3rem;
 }
 .column .f-size-2{
